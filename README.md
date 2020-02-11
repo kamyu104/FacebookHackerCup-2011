@@ -13,23 +13,41 @@ Python solutions of Facebook Hacker Cup 2011. Solution begins with `*` means it 
 ## Qualification Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Double Squares](https://www.facebook.com/hackercup/problem/112921602098268/) | | | | | | |
+| 2 | [Peg Game](https://www.facebook.com/hackercup/problem/157960964217186/) | | | | | | |
+| 3 | [Studious Student](https://www.facebook.com/hackercup/problem/188558297823727/) | | | | | | |
 
 ## Round 1A
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Diversity Number](https://www.facebook.com/hackercup/problem/127561170642475/) | | | | | | |
+| 2 | [Turn on the Lights](https://www.facebook.com/hackercup/problem/158877957461506/) | | | | | | |
+| 3 | [Wine Tasting](https://www.facebook.com/hackercup/problem/100623926681599/) | | | | | | |
 
 ## Round 1B
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Chess 2](https://www.facebook.com/hackercup/scoreboard/167482453296629/?filter=everyone) | | | | | | |
+| 2 | [Diminishing Circle](https://www.facebook.com/hackercup/problem/145264445532318/) | | | | | | |
+| 3 | [Slot Machine Hacker](https://www.facebook.com/hackercup/problem/102490243159137/) | | | | | | |
 
 ## Round 1C
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [N-Factorful](https://www.facebook.com/hackercup/problem/172875359424547/) | | | | | | |
+| 2 | [Polynomial Factoring](https://www.facebook.com/hackercup/problem/157714037613443/) | | | | | | |
+| 3 | [Risky Slide](https://www.facebook.com/hackercup/problem/185328794823941/) | | | | | | |
 
 ## Round 2
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Bonus Assignments](https://www.facebook.com/hackercup/problem/143461485714593/) | | | | | | |
+| 2 | [Scott's New Trick](https://www.facebook.com/hackercup/problem/134500253280699/) | | | | | | |
+| 3 | [Studious Student II](https://www.facebook.com/hackercup/problem/136283916434483/) | | | | | | |
 
 ## Final Round
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+| 1 | [Alien Game](https://www.facebook.com/hackercup/problem/138120872919608/) | | | | | | |
+| 2 | [Party Time](https://www.facebook.com/hackercup/problem/198773576808963/) | | | | | | |
+| 3 | [Safest Place](https://www.facebook.com/hackercup/problem/164535313595986/) | | | | | | |
